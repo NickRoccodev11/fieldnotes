@@ -31,9 +31,9 @@ export default function Main({children}) {
                     <link rel="stylesheet" href="/css/style.css" />
                 </head>
                 <body>
-                    <header class="container">
-                        <div class="text-center">
-                            <h1 class=""><a href="/profile">Binary Upload Boom</a></h1>
+                    <header className="container">
+                        <div className="text-center">
+                            <h1 className=""><a href="/profile">Binary Upload Boom</a></h1>
                             <span>The #100Devs Social Network</span>
                         </div>
                     </header>
